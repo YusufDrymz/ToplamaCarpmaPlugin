@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpma", "Carpma\Carpma.csproj", "{AC76A23A-8C39-45F6-8C88-6F7DB994CF62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesaplamaProgrami", "HesaplamaProgrami\HesaplamaProgrami.csproj", "{83224DA4-77A8-436D-B88A-B9D2C8B69DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC76A23A-8C39-45F6-8C88-6F7DB994CF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC76A23A-8C39-45F6-8C88-6F7DB994CF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC76A23A-8C39-45F6-8C88-6F7DB994CF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC76A23A-8C39-45F6-8C88-6F7DB994CF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83224DA4-77A8-436D-B88A-B9D2C8B69DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83224DA4-77A8-436D-B88A-B9D2C8B69DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83224DA4-77A8-436D-B88A-B9D2C8B69DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83224DA4-77A8-436D-B88A-B9D2C8B69DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA1FD06-0A7F-41BA-8D02-B936673CD5BE}
+	EndGlobalSection
+EndGlobal
